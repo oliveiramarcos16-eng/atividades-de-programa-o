@@ -19,6 +19,7 @@ Projetos, scripts SQL e resoluções de problemas práticos da disciplina de Ban
 
 ### 💻 Introdução à Programação
 Códigos, algoritmos e exercícios de desenvolvidos da programação para a disciplina.
+
 *⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
 * 📄 [Atividade 01](./Programacao/Atividade-01/)
