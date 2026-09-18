@@ -9,8 +9,6 @@ Em vez de poluir o GitHub com múltiplos repositórios pequenos, esta estrutura 
 ## 🛠️ Tecnologias & Ferramentas
 * **Banco de Dados:** SQL (Consultas, Views, Funções de Agregação)
 * **Programação linguagem** [TypeScript]
-* **Controle de Versão:** Git e GitHub
-
 ---
 
 ## 🗂️ Organização do Repositório
