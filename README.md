@@ -29,5 +29,6 @@ Códigos e algoritmos
 
 ### 🧠 Lógica Computacional
 Códigos e algoritmos
+*⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
 * 📂 [Acessar Pasta de Atividades](./Logica-Computacional/Atividades/)
