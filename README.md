@@ -16,11 +16,11 @@ Em vez de poluir o GitHub com múltiplos repositórios pequenos, esta estrutura 
 ## 🗂️ Organização do Repositório
 
 ### 🗄️ Banco de Dados
-Projetos, scripts SQL e resoluções de problemas práticos da disciplina de Banco de Dados.
+Projetos, scripts SQL e resoluções de problemas práticos.
 * 📂 [Acessar Pasta de Atividades](./Banco-de-Dados/Atividades/)
 
 ### 💻 Introdução à Programação
-Códigos, algoritmos e exercícios de lógica desenvolvidos para a disciplina de Introdução à Programação.
+Códigos e algoritmos
 *⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
 * 📄 [Atividade 01](./Programacao/Atividade-01/)
@@ -28,6 +28,6 @@ Códigos, algoritmos e exercícios de lógica desenvolvidos para a disciplina de
 * 📄 [Atividade 03](./Programacao/Atividade-03/)
 
 ### 🧠 Lógica Computacional
-Exercícios e desafios práticos voltados ao desenvolvimento do raciocínio lógico e algoritmos estruturados.
+Códigos e algoritmos
 
 * 📂 [Acessar Pasta de Atividades](./Logica-Computacional/Atividades/)
