@@ -23,7 +23,7 @@ Projetos, scripts SQL e resoluções de problemas práticos.
 Códigos e algoritmos
 *⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
-* 📂 [Atividade 01](./introducao-a-programacao/)
+* 📂 [Acessar Pasta de Atividades](./introducao-a-programacao/)
 
 ### 🧠 Lógica Computacional
 Códigos e algoritmos
