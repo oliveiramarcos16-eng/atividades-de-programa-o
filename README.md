@@ -23,7 +23,7 @@ Projetos, scripts SQL e resoluções de problemas práticos.
 Códigos e algoritmos
 *⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
-* 📄 [Atividade 01](./Programacao/Atividade-01/)
+* 📄 [Atividade 01](./introducao-a-programacao/att-POO1/)
 * 📄 [Atividade 02](./Programacao/Atividade-02/)
 * 📄 [Atividade 03](./Programacao/Atividade-03/)
 
