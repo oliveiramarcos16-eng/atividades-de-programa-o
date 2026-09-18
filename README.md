@@ -1,23 +1,34 @@
-# 📚 Atividades
+# 📚 Atividades Acadêmicas
 
-Repositório criado com o objetivo de organizar as atividades propostas pelo professor César.
+Este repositório foi criado com o objetivo de centralizar e organizar as atividades práticas e projetos propostos pelo **Professor César**. 
 
-Em vez de criar vários repositórios para cada atividade, este repositório reúne atividades de diferentes matérias, organizadas em suas respectivas pastas.
-
----
-
-## 🗄️ Banco de Dados
-
-Atividades relacionadas à disciplina de Banco de Dados.
-
-* [ATIVIDADES](./Banco-de-Dados/Atividades/)
+Em vez de poluir o GitHub com múltiplos repositórios pequenos, esta estrutura reúne os trabalhos de diferentes disciplinas de forma centralizada e organizada em suas respectivas pastas.
 
 ---
 
-## 💻 Introdução à Programação
+## 🛠️ Tecnologias & Ferramentas
+* **Banco de Dados:** SQL (Consultas, Views, Funções de Agregação)
+* **Programação:** [Inserir a linguagem aqui, ex: Python / C / Logic]
+* **Controle de Versão:** Git e GitHub
 
-Atividades relacionadas à disciplina de Introdução à Programação.
+---
 
-* [Atividade 01](./Programacao/Atividade-01/)
-* [Atividade 02](./Programacao/Atividade-02/)
-* [Atividade 03](./Programacao/Atividade-03/)
+## 🗂️ Organização do Repositório
+
+### 🗄️ Banco de Dados
+Projetos, scripts SQL e resoluções de problemas práticos da disciplina de Banco de Dados.
+* 📂 [Acessar Pasta de Atividades](./Banco-de-Dados/Atividades/)
+
+### 💻 Introdução à Programação
+Códigos, algoritmos e exercícios de lógica desenvolvidos para a disciplina de Introdução à Programação.
+*⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
+
+* 📄 [Atividade 01](./Programacao/Atividade-01/)
+* 📄 [Atividade 02](./Programacao/Atividade-02/)
+* 📄 [Atividade 03](./Programacao/Atividade-03/)
+
+---
+
+## 🚀 Como Navegar
+1. Clique nos links acima para ir direto para a pasta da atividade desejada.
+2. Cada subpasta contém o código-fonte correspondente e, quando aplicável, as instruções ou enunciados dos exercícios.
