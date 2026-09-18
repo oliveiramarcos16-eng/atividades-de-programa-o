@@ -1,6 +1,3 @@
--- ============================================
--- 1. CLIENTES + VIEW vw_clientes_pr
--- ============================================
 
 CREATE TABLE clientes (
     id INT PRIMARY KEY AUTO_INCREMENT,
@@ -21,11 +18,6 @@ SELECT id, nome, cidade
 FROM clientes
 WHERE estado = 'PR';
 
-
--- ============================================
--- 2. PEDIDOS + VIEW vw_pedidos_clientes
--- ============================================
-
 CREATE TABLE pedidos (
     id INT PRIMARY KEY AUTO_INCREMENT,
     cliente_id INT,
@@ -42,18 +34,24 @@ INSERT INTO pedidos (cliente_id, data_pedido, valor) VALUES
 (5, '2026-09-05', 200.00);
 
 CREATE VIEW vw_pedidos_clientes AS
-SELECT
+SELECT CREATE TABLE EMPLOYEE (
+  empId INTEGER PRIMARY KEY,
+  name TEXT NOT NULL,
+  dept TEXT NOT NULL
+);
+
+INSERT INTO EMPLOYEE VALUES (0001, 'Clark', 'Sales');
+INSERT INTO EMPLOYEE VALUES (0002, 'Dave', 'Accounting');
+INSERT INTO EMPLOYEE VALUES (0003, 'Ava', 'Sales');
+
+
+SELECT * FROM EMPLOYEE WHERE dept = 'Sales';
     clientes.nome,
     pedidos.data_pedido,
     pedidos.valor
 FROM clientes
 INNER JOIN pedidos
     ON clientes.id = pedidos.cliente_id;
-
-
--- ============================================
--- 3. PRODUTOS + VIEW vw_valor_estoque
--- ============================================
 
 CREATE TABLE produtos (
     id INT PRIMARY KEY AUTO_INCREMENT,
@@ -77,11 +75,6 @@ SELECT
     preco * estoque AS valor_total
 FROM produtos;
 
-
--- ============================================
--- 4. VIEW vw_total_clientes
--- ============================================
-
 CREATE VIEW vw_total_clientes AS
 SELECT
     clientes.nome,
@@ -91,12 +84,6 @@ FROM clientes
 INNER JOIN pedidos
     ON clientes.id = pedidos.cliente_id
 GROUP BY clientes.id, clientes.nome;
-
-
--- ============================================
--- 5. VENDEDORES + VENDAS
--- VIEW vw_desempenho_vendedores
--- ============================================
 
 CREATE TABLE vendedores (
     id INT PRIMARY KEY AUTO_INCREMENT,
