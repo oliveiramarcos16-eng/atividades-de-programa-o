@@ -1,31 +1,31 @@
-# 📚 Atividades Acadêmicas
+# 📚 Atividades
 
-Este repositório foi criado com o objetivo de centralizar e organizar as atividades práticas e projetos propostos pelo **Professor César**. 
+Repositório criado com o objetivo de organizar as atividades propostas pelo professor César.
 
-Em vez de poluir o GitHub com múltiplos repositórios pequenos, esta estrutura reúne os trabalhos de diferentes disciplinas de forma centralizada e organizada em suas respectivas pastas.
+Em vez de criar vários repositórios para cada atividade, este repositório reúne atividades de diferentes matérias, organizadas em suas respectivas pastas.
+
+---
+
+## 🗄️ Banco de Dados
+
+Atividades relacionadas à disciplina de Banco de Dados.
+
+* [ATIVIDADES](./Banco-de-Dados/Atividades/)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-* **Banco de Dados:** SQL (Consultas, Views, Funções de Agregação)
-* **Programação linguagem** [TypeScript]
----
+## 💻 Introdução à Programação
 
-## 🗂️ Organização do Repositório
+Atividades relacionadas à disciplina de Introdução à Programação. (AINDA NÃO FINALIZADA E ORGANIZADA)
 
-### 🗄️ Banco de Dados
-Projetos, scripts SQL e resoluções de problemas práticos da disciplina de Banco de Dados.
-* 📂 [Acessar Pasta de Atividades](./Banco-de-Dados/Atividades/)
-
-### 💻 Introdução à Programação
-Códigos, algoritmos e exercícios de desenvolvidos da programação para a disciplina.
-
-*⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
-
-* 📄 [Atividade 01](./Programacao/Atividade-01/)
-* 📄 [Atividade 02](./Programacao/Atividade-02/)
-* 📄 [Atividade 03](./Programacao/Atividade-03/)
+* [Atividade 01](./Programacao/Atividade-01/)
+* [Atividade 02](./Programacao/Atividade-02/)
+* [Atividade 03](./Programacao/Atividade-03/)
 
 ---
-Autor: Marcos Eduardo S. de O |
-turma: 1DSB
+
+## 🧠 Lógica Computacional
+
+Atividades e desafios práticos focados no desenvolvimento do raciocínio lógico e algoritmos (utilizando TypeScript).
+
+* [Atividades de Lógica](./Logica-Computacional/Atividades/)
