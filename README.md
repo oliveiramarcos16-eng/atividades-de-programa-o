@@ -8,7 +8,7 @@ Em vez de poluir o GitHub com múltiplos repositórios pequenos, esta estrutura 
 
 ## 🛠️ Tecnologias & Ferramentas
 * **Banco de Dados:** SQL (Consultas, Views, Funções de Agregação)
-* **Programação:** [Inserir a linguagem aqui, ex: Python / C / Logic]
+* **Programação linguagem** [TypeScript]
 * **Controle de Versão:** Git e GitHub
 
 ---
@@ -20,7 +20,7 @@ Projetos, scripts SQL e resoluções de problemas práticos da disciplina de Ban
 * 📂 [Acessar Pasta de Atividades](./Banco-de-Dados/Atividades/)
 
 ### 💻 Introdução à Programação
-Códigos, algoritmos e exercícios de lógica desenvolvidos para a disciplina de Introdução à Programação.
+Códigos, algoritmos e exercícios de desenvolvidos da programação para a disciplina.
 *⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
 * 📄 [Atividade 01](./Programacao/Atividade-01/)
@@ -28,7 +28,3 @@ Códigos, algoritmos e exercícios de lógica desenvolvidos para a disciplina de
 * 📄 [Atividade 03](./Programacao/Atividade-03/)
 
 ---
-
-## 🚀 Como Navegar
-1. Clique nos links acima para ir direto para a pasta da atividade desejada.
-2. Cada subpasta contém o código-fonte correspondente e, quando aplicável, as instruções ou enunciados dos exercícios.
