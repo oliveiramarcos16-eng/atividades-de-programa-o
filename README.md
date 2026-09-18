@@ -7,9 +7,9 @@ Em vez de poluir o GitHub com múltiplos repositórios pequenos, esta estrutura 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-* **Banco de Dados:** SQL (Consultas, Views, Funções de Agregação)
-* **Programação:** TypeScript / Lógica
-* **Controle de Versão:** Git e GitHub
+* **Banco de Dados:** SQL
+* **Programação:** TypeScript
+* **Logica:** TypeScript
 
 ---
 
