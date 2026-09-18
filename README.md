@@ -1,4 +1,4 @@
-# 📚 Atividades Acadêmicas
+# 📚 Atividades Escolares
 
 Este repositório foi criado com o objetivo de centralizar e organizar as atividades práticas e projetos propostos pelo **Professor César**. 
 
