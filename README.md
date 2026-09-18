@@ -26,6 +26,6 @@ Atividades relacionadas à disciplina de Introdução à Programação. (AINDA N
 
 ## 🧠 Lógica Computacional
 
-Atividades e desafios práticos focados no desenvolvimento do raciocínio lógico e algoritmos (utilizando TypeScript).
+Atividades relacionadas à disciplina de Lógica Computacional.
 
 * [Atividades de Lógica](./Logica-Computacional/Atividades/)
