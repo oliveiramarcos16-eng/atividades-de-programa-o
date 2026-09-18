@@ -27,5 +27,5 @@ Códigos, algoritmos e exercícios de desenvolvidos da programação para a disc
 * 📄 [Atividade 03](./Programacao/Atividade-03/)
 
 ---
-Autor: Marcos Eduardo S. de O
+Autor: Marcos Eduardo S. de O |
 turma: 1DSB
