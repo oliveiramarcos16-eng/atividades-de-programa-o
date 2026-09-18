@@ -10,7 +10,7 @@ Em vez de criar vários repositórios para cada atividade, este repositório re�
 
 Atividades relacionadas à disciplina de Banco de Dados.
 
-* [BD ATT](./Banco-de-Dados/Atividades/)
+* [ATIVIDADES](./Banco-de-Dados/Atividades/)
 
 ---
 
