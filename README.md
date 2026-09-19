@@ -29,4 +29,4 @@ Códigos e algoritmos
 Códigos e algoritmos
 *⚠️ **Nota:** Esta seção ainda está em processo de desenvolvimento e organização.*
 
-* 📂 [Acessar Pasta de Atividades](./Logica-Computacional/Atividades/)
+* 📂 [Acessar Pasta de Atividades](./Logica-computacional/Att-tratamento-de-erros-e-execoes/)
